@@ -8,10 +8,10 @@
 from time import sleep
 def bootupcandymath():
     print('Starting Candy Math OS_1.0..........'); sleep(0.5)
-    print('BootyBay is testing extended memory....'); sleep(0.5)
+    print('Hungarian Nerd is testing extended memory....'); sleep(0.5)
     print('                              done....'); sleep(0.5)
     print('Virtual Machine Folder Sharing'); sleep(0.5)
-    print('Copyright (C) 2020 BootyBay Corp. All Rights Reserved')
+    print('Copyright (C) 2020 Hungarian Nerd Corp. All Rights Reserved')
     print(); sleep(0.5)
     print('  _____________________  '); sleep(0.25)
     print(' |  _________________  | '); sleep(0.25)  
