@@ -27,7 +27,7 @@ def bootupcandymath():
     print(' | | . | 0 | = | | / | | '); sleep(0.25)
     print(' | |___|___|___| |___| | '); sleep(0.25)
     print(' |_____________________| '); sleep(0.25)
-    print(); sleep(0.25)
+    print(); sleep(0.50)
     print('     I AM CANDY MATH   ')
 
 
